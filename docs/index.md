@@ -1,3 +1,8 @@
+---
+author: Sanidhya Sharma
+updated: 2026-09-04
+---
+
 # M1: Boot & Bring-up
 
 Take the machine from power-on to a running 64-bit kernel that can print to the screen and serial port, and react to a keypress. This is the foundation every other module depends on.
